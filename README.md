@@ -1,4 +1,4 @@
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f3841569-c014-436c-b054-a61e5f489836" /># 🤖 Smart AI JARVIS – Python (Part 3)
+
 
 Smart AI JARVIS is a **voice-controlled virtual assistant built using Python**, inspired by Iron Man’s JARVIS.  
 This repository represents **Part 3** of the series, focusing on **real system automation and productivity features**.
